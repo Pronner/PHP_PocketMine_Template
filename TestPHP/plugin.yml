@@ -1,0 +1,10 @@
+name: TestPHP
+main: TestPHP/Main
+author: YourNameHere
+api: 3.14.0
+version: 1.0
+
+commands:
+  Command_Here:
+    description: "Command_Description_Here"
+    
